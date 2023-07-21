@@ -1,0 +1,215 @@
+{
+    "result": "success",
+    "data": [
+        {
+            "section_type": "0",
+            "products": [
+                {
+                    "image": "home_0_0",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_0_1",
+                    "product_id": "234"
+                },
+                {
+                    "image": "home_0_0",
+                    "product_id": "345"
+                }
+            ]
+        },
+        {
+            "section_type": "1",
+            "category_id": "123",
+            "title_image": "home_1_title",
+            "title_backgroud_image": "home_1_backgroud",
+            "category_name": "限时秒杀",
+            "time_limit": "10",
+            "products": [
+                {
+                    "image": "home_1_1",
+                    "subscript": "-15%",
+                    "subscript_color": "",
+                    "title": "超有味 串香妖果烧 秘制香辣味",
+                    "price": "269",
+                    "discoun_pricet": "228",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_1_2",
+                    "subscript": "-15%",
+                    "subscript_color": "",
+                    "title": "香源 油豆腐 200g",
+                    "price": "349",
+                    "discoun_pricet": "396",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_1_3",
+                    "subscript": "-15%",
+                    "subscript_color": "",
+                    "title": "苏伯 西红柿蛋花汤 8g",
+                    "price": "269",
+                    "discoun_pricet": "159",
+                    "product_id": "135"
+                },
+                {
+                    "image": "home_1_4",
+                    "subscript": "-15%",
+                    "subscript_color": "",
+                    "title": "蜀香 粉蒸肉调味粉 麻辣味 100g",
+                    "price": "219",
+                    "discoun_pricet": "186",
+                    "product_id": "123"
+                }
+            ]
+        },
+        {
+            "section_type": "1",
+            "category_id": "123",
+            "title_image": "home_2_title",
+            "category_name": "折扣速递",
+            "products": [
+                {
+                    "image": "home_2_1",
+                    "subscript": "-13%",
+                    "subscript_color": "",
+                    "title": "RELX悦刻烟弹 4代5代 水果味",
+                    "price": "799",
+                    "discoun_pricet": "699",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_2_2",
+                    "subscript": "清仓",
+                    "subscript_color": "",
+                    "title": "掣盛 速食咖喱 中辣 220g",
+                    "price": "699",
+                    "discoun_pricet": "629",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_2_3",
+                    "subscript": "清仓",
+                    "subscript_color": "",
+                    "title": "苏伯 西红柿蛋花汤 8g",
+                    "price": "269",
+                    "discoun_pricet": "159",
+                    "product_id": "135"
+                },
+                {
+                    "image": "home_2_4",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "兰芳园 丝袜奶茶 280ml",
+                    "price": "299",
+                    "discoun_pricet": "",
+                    "product_id": "123"
+                }
+            ]
+        },
+        {
+            "section_type": "2",
+            "category_id": "123",
+            "category_name": "猜你喜欢",
+            "products": [
+                {
+                    "image": "home_3_1",
+                    "subscript": "优选",
+                    "subscript_color": "",
+                    "title": "贵州茅台 53度飞天茅台",
+                    "price": "359",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_3_2",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "五粮液 52度 浓香型 500ML",
+                    "price": "19999",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_3_3",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "鑫纯 魔芋大拉皮 500g",
+                    "price": "229",
+                    "product_id": "135"
+                },
+                {
+                    "image": "home_3_4",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "Dasio 日本大创 粉扑专用清洗剂 80ml",
+                    "price": "499",
+                    "product_id": "123"
+                },
+{
+                    "image": "home_3_5",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "寿桃 生面皇爽滑幼面 (60个* 16pcs) 960g",
+                    "price": "1699",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_3_6",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "Aigostar 蒸炸二合一空气炸锅 1700W 7L",
+                    "price": "14999",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_3_7",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "古创龙山 国酿1959 15%白玉 500ML",
+                    "price": "29999",
+                    "product_id": "135"
+                },
+                {
+                    "image": "home_3_8",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "APEMAN LC650 投影仪",
+                    "price": "19999",
+                    "product_id": "123"
+                },
+{
+                    "image": "home_3_9",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "洪宇 叉烧包 350g",
+                    "price": "469",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_3_10",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "京一根 老手艺土豆粉条 200g",
+                    "price": "219",
+                    "product_id": "123"
+                },
+                {
+                    "image": "home_3_11",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "香源甄选肉片 冻原切去骨牛小排 200g",
+                    "price": "639",
+                    "product_id": "135"
+                },
+                {
+                    "image": "home_3_12",
+                    "subscript": "",
+                    "subscript_color": "",
+                    "title": "寿桃 酸辣 刀削面(4pcs*96g)384g",
+                    "price": "799",
+                    "product_id": "123"
+                }
+            ]
+        }
+    ]
+}

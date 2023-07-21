@@ -1,0 +1,82 @@
+{
+    "result": "success",
+    "data": {
+        "search_sugguestion": [
+            "按摩椅",
+            "安井",
+            "生抽",
+            "面",
+            "醋",
+            "魔芋",
+            "玉米",
+            "年糕",
+            "糖水",
+            "咖啡",
+            "橘子",
+            "网红食品"
+            
+        ],
+        "all_category": [
+            {
+                "title": "清凉一夏",
+                "image": "category_0"
+            },
+            {
+                "title": "新品专区",
+                "image": "category_1"
+            },
+            {
+                "title": "折扣专区",
+                "image": "category_2"
+            },
+            {
+                "title": "方圆厨房",
+                "image": "category_3"
+            },
+            {
+                "title": "地域特产",
+                "image": "category_4"
+            },
+            {
+                "title": "世界风味",
+                "image": "category_5"
+            },
+            {
+                "title": "素菜",
+                "image": "category_6"
+            },
+            {
+                "title": "水果",
+                "image": "category_7"
+            },
+            {
+                "title": "蛋奶豆",
+                "image": "category_8"
+            },
+            {
+                "title": "肉禽海鲜",
+                "image": "category_9"
+            },
+            {
+                "title": "调味",
+                "image": "category_10"
+            },
+            {
+                "title": "零食",
+                "image": "category_11"
+            },
+            {
+                "title": "干活",
+                "image": "category_12"
+            },
+            {
+                "title": "冻品",
+                "image": "category_13"
+            },
+            {
+                "title": "酒水饮品",
+                "image": "category_14"
+            }
+        ]
+    }
+}
